@@ -1,5 +1,6 @@
 {
   "name": "purescript-flow-id",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "bower_components",
