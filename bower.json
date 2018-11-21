@@ -1,0 +1,15 @@
+{
+  "name": "purescript-flow-id",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-simple-json": "^4.3.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
